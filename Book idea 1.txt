@@ -1,0 +1,13 @@
+1.Admin
+2.The user/donor has to sign up.Then there will a verification code sent to the email,gmail.etc.
+3.After verifying , they will be directed to their profile.
+USER-
+1.BUT only one book can be requested by the user.
+2.The user will search the name of the book in the Search Bar
+3.When they see the name of the book ,  they will click on it.
+4.And if the book is the one the user wants , the user will send the donor a friend request.
+DONOR-
+1.The donor can donate more that one book.
+2.The donor will go to a button , he will enter the information of the book he wants to donate and the picture of the front page.
+3.If a user has sent him a friend request wanting the book he wishes to donate , the donor will either accept or decline according to him.
+4.After he accepts , he will corrier the book.
